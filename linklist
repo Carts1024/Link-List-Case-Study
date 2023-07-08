@@ -5,3 +5,5 @@ struct node{
 int x;
 struct *next;
 };
+
+bakit papa binawi mo pa
